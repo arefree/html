@@ -1,0 +1,10 @@
+<html>
+<title>Hojas de estilos</title>
+<style>
+</style>
+<body>
+<p style="color: red">Uno </br></p>
+<p style="color: blue">dos </br></p>
+<p style="color: green">tres </br></p>
+</body>
+</html>
